@@ -58,9 +58,9 @@ The following table compares leading commercial SaaS platforms for hyper-localiz
 
 ## 🔓 Open-Source Projects & Frameworks
 
-Open-source solutions empower engineering and data science teams to build custom, vendor-independent pricing infrastructure, automated web crawlers, and algorithmic price optimization systems. Repositories are ranked in **descending order of GitHub Star count**.
+Open-source solutions empower engineering and data science teams to build custom, vendor-independent pricing infrastructure, automated web crawlers, and algorithmic price optimization systems. Repositories are ranked in **descending order of GitHub Stars_Count**.
 
-| 📦 Project | 🌟 Stars | 🧩 Primary Architecture / Category | 📜 License | 🎯 Core Capabilities |
+| 📦 Project | 🌟 GitHub_Stars | 🧩 Primary Architecture / Category | 📜 License | 🎯 Core Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ERP & Commerce Framework | LGPL-3.0 | Multi-currency price lists, regional discount rules, customer group pricing, and hyper-localized POS price calculation. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ERP & Business Management | GPL-3.0 | Granular pricing rule engine, territory-based margin enforcement, promotional schemes, and automated purchase/selling price lists. |
@@ -137,7 +137,7 @@ We welcome contributions from pricing practitioners, data scientists, and softwa
 1. **Fork the repository** to your personal GitHub account.
 2. **Add or modify entries**:
    - For **SaaS platforms**, ensure exact starting tiers, free trial details, and verified company valuation/revenue metrics are referenced.
-   - For **Open-Source projects**, verify the repo URL, license, and insert the star counter badge: `[![Repo Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)` sorted in descending order of stars.
+   - For **Open-Source projects**, verify the repo URL, license, and insert the Stars_Counter badge: `[![Repo Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)` sorted in descending order of stars.
 3. **Commit your changes** with descriptive commit messages.
 4. **Submit a Pull Request** explaining the additions or corrections.
 
