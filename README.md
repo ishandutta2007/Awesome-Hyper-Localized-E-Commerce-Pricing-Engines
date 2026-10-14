@@ -58,7 +58,7 @@ The following table compares leading commercial SaaS platforms for hyper-localiz
 
 ## 🔓 Open-Source Projects & Frameworks
 
-Open-source solutions empower engineering and data science teams to build custom, vendor-independent pricing infrastructure, automated web crawlers, and algorithmic price optimization systems. Repositories are ranked in **descending order of GitHub Stars_Count**.
+Open-source solutions empower engineering and data science teams to build custom, vendor-independent pricing infrastructure, automated web crawlers, and algorithmic price optimization systems. Repositories are ranked in **descending order of GitHub_Stars_Count**.
 
 | 📦 Project | 🌟 GitHub_Stars | 🧩 Primary Architecture / Category | 📜 License | 🎯 Core Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
