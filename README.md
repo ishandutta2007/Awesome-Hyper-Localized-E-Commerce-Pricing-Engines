@@ -2,13 +2,15 @@
 
 ![Awesome Hyper-Localized E-Commerce Pricing Engines](./assets/banner.svg)
 
-# Awesome Hyper-Localized E-Commerce Pricing Engines
+# ⚡ Awesome Hyper-Localized E-Commerce Pricing Engines 🛒
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Hyper-Localized-E-Commerce-Pricing-Engines/blob/main/README.md#how-to-contribute)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Hyper-Localized-E-Commerce-Pricing-Engines/blob/main/README.md#-how-to-contribute)
 [![Topic: Dynamic Pricing](https://img.shields.io/badge/topic-dynamic--pricing-blue.svg)](https://github.com/topics/dynamic-pricing)
 [![Topic: Retail Intelligence](https://img.shields.io/badge/topic-retail--intelligence-purple.svg)](https://github.com/topics/retail-intelligence)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of enterprise SaaS solutions and open-source software for dynamic repricing, algorithmic price optimization, regional demand elasticity modeling, and real-time competitor tracking.**
 
@@ -16,28 +18,30 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Enterprise SaaS Pricing Engines](#enterprise-saas-pricing-engines)
-- [Open-Source Projects & Frameworks](#open-source-projects--frameworks)
-- [Architectural Blueprint](#architectural-blueprint)
-- [How to Contribute](#how-to-contribute)
-- [Legal & Regulatory Disclaimer](#legal--regulatory-disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Enterprise SaaS Pricing Engines](#-enterprise-saas-pricing-engines)
+- [🔓 Open-Source Projects & Frameworks](#-open-source-projects--frameworks)
+- [🏗️ Architectural Blueprint](#️-architectural-blueprint)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Legal & Regulatory Disclaimer](#️-legal--regulatory-disclaimer)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global retail dynamic pricing and price optimization software market is currently valued at approximately **$1.8B – $2.1B** (within a broader dynamic pricing and revenue management market surpassing **$15B**, compounding at **14–20% CAGR** through 2032). The sector is **moderately fragmented**—featuring a robust layer of specialized SMB/niche point solutions for automated web scraping and rule-based repricing, contrasted with an increasingly consolidated enterprise tier where private equity and mega-platforms (e.g., Mastercard, PROS, Riverwood Capital) dominate complex omnichannel elasticity modeling and enterprise CPQ.
 
 ---
 
-## Enterprise SaaS Pricing Engines
+## 💼 Enterprise SaaS Pricing Engines
 
 The following table compares leading commercial SaaS platforms for hyper-localized pricing, competitor monitoring, and algorithmic revenue management. Platforms are sorted in **descending order of company scale** (estimated valuation or annual revenue run-rate).
 
-| Platform | Company Scale (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Hyper-Localization & Pricing Features |
+| 🏢 Platform | 💰 Company Scale (Valuation / Revenue) | 🏷️ Starting Tier Pricing | ⏳ Free Tier / Free Trial Limits | 🚀 Key Hyper-Localization & Pricing Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Dynamic Yield](https://www.dynamicyield.com/)** | **$325M** (Acquired by Mastercard in 2022) | **$35,000 / year** (~$2,916/mo baseline contract) | **No free tier**; 0-day self-serve trial (Custom guided proof-of-concept demo on request) | Real-time predictive personalization engine, hyper-localized contextual offer and price recommendation testing, multi-market omnichannel segmentation. |
 | **[PROS Pricing](https://www.pros.com/)** | **$1.12B Market Cap** (~$360M ARR) | **$2,500 / month** ($30,000/yr annual enterprise contract) | **No free tier**; 0-day self-serve trial (Custom enterprise PoC and demo sandbox on request) | AI-powered dynamic pricing, B2B/B2C willingness-to-pay forecasting, multi-regional revenue management, and enterprise CPQ deal guidance. |
@@ -52,11 +56,11 @@ The following table compares leading commercial SaaS platforms for hyper-localiz
 
 ---
 
-## Open-Source Projects & Frameworks
+## 🔓 Open-Source Projects & Frameworks
 
 Open-source solutions empower engineering and data science teams to build custom, vendor-independent pricing infrastructure, automated web crawlers, and algorithmic price optimization systems. Repositories are ranked in **descending order of GitHub Star count**.
 
-| Project | Stars | Primary Architecture / Category | License | Core Capabilities |
+| 📦 Project | 🌟 Stars | 🧩 Primary Architecture / Category | 📜 License | 🎯 Core Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ERP & Commerce Framework | LGPL-3.0 | Multi-currency price lists, regional discount rules, customer group pricing, and hyper-localized POS price calculation. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ERP & Business Management | GPL-3.0 | Granular pricing rule engine, territory-based margin enforcement, promotional schemes, and automated purchase/selling price lists. |
@@ -74,7 +78,7 @@ Open-source solutions empower engineering and data science teams to build custom
 
 ---
 
-## Architectural Blueprint
+## 🏗️ Architectural Blueprint
 
 For engineering teams constructing a custom, hyper-localized e-commerce pricing engine from open-source building blocks:
 
@@ -108,7 +112,25 @@ For engineering teams constructing a custom, hyper-localized e-commerce pricing 
 
 ---
 
-## How to Contribute
+## 💖 Support
+
+Thank you for visiting and supporting this curated resource! 🌟  
+If you found this repository helpful for your projects, research, or business, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** it to customize your own pricing pipelines
+- 📢 **Sharing** with fellow developers, e-commerce founders, and pricing practitioners
+- ☕ **Buying a coffee / sponsoring** to fuel ongoing curation and updates:  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Hyper-Localized-E-Commerce-Pricing-Engines&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Hyper-Localized-E-Commerce-Pricing-Engines&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
 
 We welcome contributions from pricing practitioners, data scientists, and software developers!
 
@@ -121,7 +143,7 @@ We welcome contributions from pricing practitioners, data scientists, and softwa
 
 ---
 
-## Legal & Regulatory Disclaimer
+## ⚖️ Legal & Regulatory Disclaimer
 
 - **Compliance & Fair Pricing**: Dynamic pricing algorithms must comply with federal and local consumer protection regulations, anti-price gouging laws during emergencies, and competition policies. **Price discrimination based on protected personal characteristics is strictly prohibited** under numerous legal frameworks.
 - **Price Scraping Risks**: Web scraping of competitor data carries legal considerations. Ensure strict adherence to target websites' `robots.txt`, Terms of Service (ToS), and rate limits.
